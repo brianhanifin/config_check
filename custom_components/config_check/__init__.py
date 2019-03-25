@@ -10,7 +10,7 @@ from subprocess import Popen, PIPE
 
 VERSION = '0.1.0'
 
-NOTIFYID = '1337'
+NOTIFYID = 'config_check'
 
 _LOGGER = logging.getLogger(__name__)
 
